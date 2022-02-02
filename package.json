@@ -1,7 +1,7 @@
 {
   "name": "tinyclip",
   "version": "0.1.0",
-  "homepage": "https://taz-z.github.io/tinyclip/",
+  "homepage": "http://taz-z.github.io/tinyclip/",
   "private": true,
   "dependencies": {
     "matter-js": "^0.18.0",
